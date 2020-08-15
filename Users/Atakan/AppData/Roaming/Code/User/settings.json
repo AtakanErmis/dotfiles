@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.trimAutoWhitespace": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
